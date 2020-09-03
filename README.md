@@ -1,5 +1,4 @@
 <!--### Hi there 👋-->
-https://run.kaist.ac.kr/badges/codeforces/tanvirdeol2003.svg
 ![alt text](https://run.kaist.ac.kr/badges/codeforces/tanvirdeol2003.svg)
 
 <!--
