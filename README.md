@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 ![alt text](https://run.kaist.ac.kr/badges/codeforces/tanvirdeol2003.svg)
-![alt text](https://img.shields.io/badge/DMOJ-1229-blue??style=flat&logo=sourcegraph)
+![alt text](https://img.shields.io/badge/DMOJ-1229-blue?style=flat&logo=sourcegraph&logoColor=yellow)
 ![alt text](https://img.shields.io/badge/CodeChef-1573-green?style=flat&logo=codechef)
 
 <!--
