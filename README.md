@@ -1,6 +1,7 @@
 <!--### Hi there 👋-->
 ![alt text](https://run.kaist.ac.kr/badges/codeforces/tanvirdeol2003.svg)
 ![alt text](https://img.shields.io/badge/DMOJ-1229-blue??style=flat&logo=sourcegraph)
+![alt text](https://img.shields.io/badge/CodeChef-1573-green?style=flat&logo=codechef)
 
 <!--
 **TanvirDeol/TanvirDeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
